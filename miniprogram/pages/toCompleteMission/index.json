@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "完成事件",
+  "usingComponents": {
+    "cloud-tip-modal": "/components/cloudTipModal/index"
+  }
+}
